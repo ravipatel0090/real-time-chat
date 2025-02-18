@@ -24,8 +24,13 @@ Environment Variables
 To configure the application, create a .env file in the root directory and set the following variables:
 
 PORT=4000
+
 DB_USER= Add your db user
+
 DB_PASSWORD=Add your db password
+
 DB_NAME=Add your db name
+
 DB_HOST=localhost
+
 JWT_SECRET=tokensecret
